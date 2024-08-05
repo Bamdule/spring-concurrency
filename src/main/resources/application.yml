@@ -7,17 +7,17 @@ spring:
   jpa:
     show-sql: true
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
 
 
-logging:
-  level:
-    org:
-      springframework:
-        transaction: DEBUG
-        orm:
-          jpa:
-            JpaTransactionManager: DEBUG
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        transaction: DEBUG
+#        orm:
+#          jpa:
+#            JpaTransactionManager: DEBUG
 
 server:
   tomcat:

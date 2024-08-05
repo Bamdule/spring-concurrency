@@ -1,4 +1,4 @@
-package org.example.springconcurrency.service.user;
+package org.example.springconcurrency.usecase.user;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

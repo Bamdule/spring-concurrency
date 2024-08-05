@@ -1,4 +1,4 @@
-package org.example.springconcurrency.service.ticket;
+package org.example.springconcurrency.usecase.ticket;
 
 import ch.qos.logback.core.testUtil.RandomUtil;
 import org.assertj.core.api.Assertions;

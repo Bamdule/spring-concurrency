@@ -1,4 +1,4 @@
-package org.example.springconcurrency.service.ticket;
+package org.example.springconcurrency.usecase.ticket;
 
 import lombok.RequiredArgsConstructor;
 import org.example.springconcurrency.domain.ticket.TicketEvent;

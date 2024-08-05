@@ -1,7 +1,7 @@
 package org.example.springconcurrency.controller;
 
 import lombok.RequiredArgsConstructor;
-import org.example.springconcurrency.service.user.UserPointDeductUseCase;
+import org.example.springconcurrency.usecase.user.UserPointDeductUseCase;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

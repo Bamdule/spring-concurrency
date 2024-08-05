@@ -1,9 +1,9 @@
-package org.example.springconcurrency.service;
+package org.example.springconcurrency.usecase;
 
 import org.assertj.core.api.Assertions;
 import org.example.springconcurrency.domain.user.UserPoint;
 import org.example.springconcurrency.domain.user.UserPointRepository;
-import org.example.springconcurrency.service.user.UserPointDeductUseCase;
+import org.example.springconcurrency.usecase.user.UserPointDeductUseCase;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

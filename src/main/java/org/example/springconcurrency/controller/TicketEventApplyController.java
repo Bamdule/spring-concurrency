@@ -1,7 +1,7 @@
 package org.example.springconcurrency.controller;
 
 import lombok.RequiredArgsConstructor;
-import org.example.springconcurrency.service.ticket.TicketEventApplyUseCase;
+import org.example.springconcurrency.usecase.ticket.TicketEventApplyUseCase;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
